@@ -2,7 +2,7 @@
 
 - I'm currently learning Python with HyperionDev.
 - I'm working on two programs. Please find a little infomation below about the projects.
-- I'm happy to colaborate and to get more involved in the GIthub community.
+- I'm happy to colaborate and to get more involved within the Github community.
 
 ###### Mental Capacity Act
 
